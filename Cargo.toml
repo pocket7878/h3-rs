@@ -1,0 +1,9 @@
+[package]
+name = "h3"
+version = "0.1.0"
+authors = ["Pocket7878 <poketo7878@gmail.com>"]
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.32.1"
